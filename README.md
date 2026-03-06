@@ -1,1 +1,1 @@
-# DataSentinal-AI-Intelligent-Data-Dictionary-Agent
+# DataSentinal-AI-Intelligent-DataDictionary-Agent
