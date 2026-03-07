@@ -45,5 +45,7 @@ DataSentinel-AI/
 
 👥 Engineering Team
 Vishal Yadav - Backend Architecture & Database Optimization
-Vibhanshu - Frontend Integration & UI/UX Design
+Shreyanshh Shrivastava - Lead Architect
+Vibhanshu Shrivastava  - Frontend Integration & UI/UX Design
+
 └── README.md              # Technical Documentation
