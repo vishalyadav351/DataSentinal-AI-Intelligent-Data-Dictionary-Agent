@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 import urllib.parse
 
 
-my_password = urllib.parse.quote_plus("vishal@9415@7395@99561699") 
+my_password = urllib.parse.quote_plus("this area my password") 
 
 
 SQLALCHEMY_DATABASE_URL = f"mysql+pymysql://root:{my_password}@localhost/backend_project"
